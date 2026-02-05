@@ -19,3 +19,11 @@ Lex-Mitra is a "Multilingual Legal Shield." It allows users to upload photos or 
 * **OCR:** Azure Vision (Form Recognizer)
 * **Intelligence:** Azure OpenAI Service
 * **Interface:** Responsive HTML5/CSS3
+
+
+## 📺 Project Demonstrations
+Because the high-quality walkthroughs exceed GitHub's file size limits, you can view them here:
+
+* [🎥 **Watch: 4-Minute Feature Demo**]
+* [🔍 **Watch: 6-Minute Technical Deep Dive**]
+* https://drive.google.com/drive/folders/1S5Zb_j4WQKLu900FOyo_X-DkxWhsRk-f?usp=sharing
