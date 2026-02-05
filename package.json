@@ -1,0 +1,16 @@
+{
+  "name": "lex-mitra",
+  "version": "1.0.0",
+  "description": "Multilingual Legal Assistant for Indian Farmers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "@azure/ai-form-recognizer": "^4.0.0",
+    "@azure/core-auth": "^1.5.0",
+    "openai": "^4.28.0"
+  }
+}
